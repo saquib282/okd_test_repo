@@ -1,6 +1,6 @@
-<php
+<?php
      
-echo "Welcome to OCP first code !!":
+print "Welcome to OCP first code !!":
 
 ?>
      
